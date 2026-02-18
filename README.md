@@ -69,17 +69,8 @@ cd hierarchical-clustering-ml
 Install dependencies:
 
 ```bash
-pip install numpy matplotlib scipy scikit-learn
+pip install -r requirements.txt
 ```
-
-Run the script:
-
-```bash
-python main.py
-```
-
----
-
 ## 📈 Output
 
 Dendrogram visualization
